@@ -1,6 +1,6 @@
 import React from 'react';
-import Signup from './Signup/Signup';
-import Login from './Login/Login';
+import Signup from './components/Signup/Signup';
+import Login from './components/Login/Login';
 function App() {
   return (
     <div className="App">
